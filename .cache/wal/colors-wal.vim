@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/shikikan/wallpaper/cat.jpg"
+let background = "#2d241e"
+let foreground = "#f4efde"
+let cursor     = "#f4efde"
+
+" Colors
+let color0  = "#2d241e"
+let color1  = "#8A6F8F"
+let color2  = "#B4A291"
+let color3  = "#D7B292"
+let color4  = "#EFD9A4"
+let color5  = "#EED5AE"
+let color6  = "#E9D8CC"
+let color7  = "#f4efde"
+let color8  = "#aaa79b"
+let color9  = "#8A6F8F"
+let color10 = "#B4A291"
+let color11 = "#D7B292"
+let color12 = "#EFD9A4"
+let color13 = "#EED5AE"
+let color14 = "#E9D8CC"
+let color15 = "#f4efde"

@@ -1,0 +1,21 @@
+set $wallpaper /home/shikikan/wallpaper/cat.jpg
+
+set $background #2d241e
+set $foreground #f4efde
+
+set $color0 #2d241e
+set $color1 #8A6F8F
+set $color2 #B4A291
+set $color3 #D7B292
+set $color4 #EFD9A4
+set $color5 #EED5AE
+set $color6 #E9D8CC
+set $color7 #f4efde
+set $color8 #aaa79b
+set $color9 #8A6F8F
+set $color10 #B4A291
+set $color11 #D7B292
+set $color12 #EFD9A4
+set $color13 #EED5AE
+set $color14 #E9D8CC
+set $color15 #f4efde

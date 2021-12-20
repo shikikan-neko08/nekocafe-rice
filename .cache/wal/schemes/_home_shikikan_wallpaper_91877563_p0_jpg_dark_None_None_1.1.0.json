@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/shikikan/wallpaper/91877563_p0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2b2122",
+        "foreground": "#cfdbe7",
+        "cursor": "#cfdbe7"
+    },
+    "colors": {
+        "color0": "#2b2122",
+        "color1": "#70CEE6",
+        "color2": "#A594AB",
+        "color3": "#DEAFB1",
+        "color4": "#E8C8B7",
+        "color5": "#98B0D2",
+        "color6": "#E1B7CA",
+        "color7": "#cfdbe7",
+        "color8": "#9099a1",
+        "color9": "#70CEE6",
+        "color10": "#A594AB",
+        "color11": "#DEAFB1",
+        "color12": "#E8C8B7",
+        "color13": "#98B0D2",
+        "color14": "#E1B7CA",
+        "color15": "#cfdbe7"
+    }
+}

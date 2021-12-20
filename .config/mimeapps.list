@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-shellscript=geany.desktop;
+image/jpeg=viewnior.desktop;
+image/png=viewnior.desktop;
+text/x-csrc=geany.desktop;
+application/x-trash=geany.desktop;
