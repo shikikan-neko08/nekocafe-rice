@@ -1,0 +1,21 @@
+set $wallpaper /home/shikikan/wallpaper/86141827_p0.jpg
+
+set $background #181611
+set $foreground #f1ecdf
+
+set $color0 #181611
+set $color1 #A99169
+set $color2 #D2A26B
+set $color3 #D8C266
+set $color4 #B0A391
+set $color5 #D4B397
+set $color6 #EBD4A9
+set $color7 #f1ecdf
+set $color8 #a8a59c
+set $color9 #A99169
+set $color10 #D2A26B
+set $color11 #D8C266
+set $color12 #B0A391
+set $color13 #D4B397
+set $color14 #EBD4A9
+set $color15 #f1ecdf
